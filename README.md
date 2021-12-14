@@ -3,7 +3,7 @@
 An application of the ancient Tower of Hanoi Problem 
 ***
 To Run-
--     You can use the application by adding a small number (less than 7 unless you want to be here all day)
+-     You can use the application by adding a small number (less than 7)
 in the empty space and pressing enter, 
 -      then press the Make Move button.       
 -      The first press will load the Hanoi Tower. 
