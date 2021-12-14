@@ -3,8 +3,8 @@
 An application of the ancient Tower of Hanoi Problem 
 ***
 To Run-
--     You can use the application by adding a small number (less than 7)
-in the empty space and pressing enter, 
+-     You can use the application by adding a small number (less than 7) in the empty space 
+-     press enter, 
 -      then press the Make Move button.       
 -      The first press will load the Hanoi Tower. 
 -      Every button press after that iterates through solving the Hanoi Tower. 
